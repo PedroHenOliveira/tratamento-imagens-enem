@@ -119,7 +119,7 @@ def dividir_imagem_por_faixas(caminho_imagem, pasta_saida, cor_alvo=(64, 193, 24
 # Exemplo de uso
 if __name__ == "__main__":
     # Configurações
-    caminho_imagem = "paginas-concatenadas"  # Substitua pelo caminho da sua imagem
+    caminho_imagem = "todas_juntas.png"  # Substitua pelo caminho da sua imagem
     pasta_saida = "questoes-separadas"
     
     # Converte a cor do GIMP (25.1, 75.7, 95.3) para RGB (0-255)
